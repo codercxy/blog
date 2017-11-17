@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://codercxy.github.io/blog/sitemap.xml 
